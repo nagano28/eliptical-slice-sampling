@@ -1,3 +1,7 @@
 # eliptical-slice-sampling
 
-reference : https://arxiv.org/abs/1001.0175
+reference1 : http://homepages.inf.ed.ac.uk/imurray2/pub/10ess/
+reference2 : http://chasen.org/~daiti-m/gpbook/
+
+## 操作
+python gpr-cauchy.py data(gpr-cauchy.dat) iter(example:10)
